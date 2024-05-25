@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu perfil!
 
-<!--
-**PROFISA4/PROFISA4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabela Maria de Godoi 🩷
 
-Here are some ideas to get you started:
+- Sou professora de Matemática e Tecnologia
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+
+isabelagodoi08@gmail.com
+
+@isaabelagodoi
+
+
+
+![](https://media.tenor.com/L06vybJFesoAAAAM/barbie-movie-waving.gif)
+
