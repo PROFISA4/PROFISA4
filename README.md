@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil!
 
-Meu nome é Isabela Maria de Godoi 🧑‍💻
+Meu nome é Isabela Maria de Godoi 👩‍🏫
 
 - Sou professora de Matemática e Tecnologia
 - Estou estudando na [Alura](https://www.alura.com.br)
